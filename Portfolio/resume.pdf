@@ -1,74 +1,365 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ]
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 11 0 R
+/F1-0 11 0 R
+/F2 13 0 R
+/F2-0 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057namah\055bhagat\055552568301)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 142.3728 735.3701 329.1328 747.3701 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Author (Namah Bhagat) /CreationDate (D:20261121103347+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261121103347+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Namah Bhagat - Resume) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NamahBhagat)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 337.2928 735.3701 452.9028 747.3701 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NamahBhagat\057DeveloperPortfolio)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 95.53762 469.3701 337.7306 481.9701 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1201
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NamahBhagat\057cse103\055lab\055LAB3)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 95.53762 399.3701 331.9031 411.9701 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057NamahBhagat\057cse103\055lab\055LAB3)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 95.53762 329.3701 331.9031 341.9701 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Length 4666
 >>
 stream
-Gau`RhfIL2&:WfGfZ3%WN+HL8noR-2THufT\:)MXY_B3;/c.(Z.5Uq_Dl""a>3\e%SK+4U(p.trDti"O$.sJ7F,t?l8I59U"Gd0=#0=Ru5e)JMf_MF4G*W48r4odn?khN/>d2I>Q#psuft6Qq&E`3"!TG&*NqPjBcZ2K#5_CbFPKWL8GRfr5pj='Q6MNKmImEJ5%EAATYNPF=[h8XC=>JB7M*ihT3'.qpeY*F(>=3Z;$n!:?%g$C"+8??3PU9AKm!enGP#IrT;3BnrkB0cP(!X?EVq%(?C4I4u(kiBA<&-)o=NlKUe`WY[BMR%5UX,Op3SlH/D1_a"Y0qW5bV$<J`0_OsgU?5?:)eQ3Gqo2,T6tZMrlONEQg$J7>[9N^47:t6m(I`rJ-T?X[#9!Hh@\m?%NZdZj*O.@aC'//%rj2i"dn^!VJUS_W2mZFlGO$4P]gJ=jCPGq"fmG8&M]p[ZQ^#7(ot/;i:^]ok[,lZ:Koj49hqfmaNmsPhnTC1$-d,n?Ne,VQ/l]7h(&Sc3r;s`8?qpu/[sZjY2':pk`9&'F1d+`Cc]=99ZKe.I9nIkX7dr/bP;U$*-rjQ5Mg6(B2<eff(%*r9?^X8'.2$6en0M0i-MHP6=:6M$nEf0FaMhr$'ct3@?n,,nO+*F'c+BGl(H/j[0X[EaGuuVkGkS$o6T5HY:J+3bdt%>UAb??X)]h+ed;d(p$IU*(+AoT*C][aB+.gFWE:dbE*X1jP>[;Q':gq1YV0[4(DdUV'd"4JJ!1;EDlu:KVI@+7m(aP<#5NNh`u;U9NaV\@L6VpcCf,%X`Dg-;hPR=kZ!CJ[p$J`MnV9`sdoE3$23&ZsG(siB4ho+C!Q]*fP=+%6[I"j@kjoW34ApVkMbk--T%"L52.#2q<Z?gV)2hA2.*`s.O;/APT\B#*JkDG]ZBcrBj$$K0kZY(kLL)4ummD&VQ^Q7*-5+@)^k4C4`1!@=%hD*O\&jL4c(QbrK#Wo"2/KKC,SU=+@Fe2r,E8_:)W,&Yc6-,eP\9son`.8(8VR<4+gTsF4E4R+\__fIp^^k4%g.5,ae)#)kN\,glSWF$aLeMO"1r2K;5+b(=u#_q1e>MalM?h^N>0FB!bns5V1Laj7P'U4fEqqGg'*%[lFg1]Y#UURAsHU/*Yal`'"H;J\uUs>Wf^nG0-,GX9d1Dg[DJ7Sfue%`)Z9%ZLX*XTq?QN~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 767.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 20 Tf 26 TL 157.8542 0 Td (NAMAH BHAGAT) Tj T* -157.8542 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 747.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 106.4892 0 Td (9278826666 | bhagatdevb@gmail.com | Gurugram, Haryana) Tj T* -106.4892 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 733.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 85.34917 0 Td 14 TL /F1 10 Tf .101961 .309804 .627451 rg (linkedin.com/in/namah-bhagat-552568301) Tj 0 0 0 rg ( | ) Tj .101961 .309804 .627451 rg (github.com/NamahBhagat) Tj T* -85.34917 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 707.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 703.5701 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 684.5701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (B.Tech, Computer Science and Engineering \(AI/ML\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 669.5701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (KR Mangalam University, Gurugram | Expected: May 2030) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 643.5701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 639.7701 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 620.7701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Languages:) Tj /F1 10.5 Tf ( Python \(Beginner\), Bash / Shell Scripting, HTML/CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 605.7701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Tools:) Tj /F1 10.5 Tf ( Git, GitHub, GitHub Pages, VS Code, Linux Terminal, curl, jq) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.7701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Concepts:) Tj /F1 10.5 Tf ( File Systems, Process Management, REST APIs, Markdown) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 564.7701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 560.9701 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 541.9701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL -0.112638 Tw (DeveloperPortfolio \(CSE103 Capstone\) | Linux, Bash, Git, REST API, HTML/CSS | November 2026) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.9701 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 19.5 Tm /F1 10.5 Tf 15 TL (Built a GitHub portfolio repository with Linux system documentation, two Bash scripts \(system report) Tj T* (and folder backup\) and API data fetched using curl and jq.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.9701 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 19.5 Tm /F1 10.5 Tf 15 TL (Maintained a clean Git history with Conventional Commit messages and deployed a portfolio website) Tj T* (using GitHub Pages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 466.9701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (GitHub: ) Tj .101961 .309804 .627451 rg (https://github.com/NamahBhagat/DeveloperPortfolio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 456.9701 cm
+Q
+q
+1 0 0 1 57.02362 441.9701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (Git Repository Setup \(CSE103 Lab\) | Git, GitHub | October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 426.9701 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 4.5 Tm /F1 10.5 Tf 15 TL (Configured Git identity and created a local repository, then pushed it to GitHub.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 411.9701 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 4.5 Tm /F1 10.5 Tf 15 TL (Implemented add, commit and push workflow to upload lab files online.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 396.9701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (GitHub: ) Tj .101961 .309804 .627451 rg (https://github.com/NamahBhagat/cse103-lab-LAB3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.9701 cm
+Q
+q
+1 0 0 1 57.02362 371.9701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (Shell Scripting Programs \(CSE103 Lab\) | Bash, Linux Terminal | October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 356.9701 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 4.5 Tm /F1 10.5 Tf 15 TL (Developed three Bash scripts to practice shell commands and script logic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 341.9701 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 4.5 Tm /F1 10.5 Tf 15 TL (Automated simple tasks in the Linux terminal and verified the outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 326.9701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (GitHub: ) Tj .101961 .309804 .627451 rg (https://github.com/NamahBhagat/cse103-lab-LAB3) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
-0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000879 00000 n 
-0000000938 00000 n 
+0 15
+0000000012 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000452 00000 n 
+0000000681 00000 n 
+0000000878 00000 n 
+0000001097 00000 n 
+0000001319 00000 n 
+0000001541 00000 n 
+0000006260 00000 n 
+0000000000 00001 f 
+0000006368 00000 n 
+0000006481 00000 n 
 trailer
 <<
-/ID 
-[<07dc25942c5d16659ce0e1e4f1902f40><07dc25942c5d16659ce0e1e4f1902f40>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2230
+6597
 %%EOF
