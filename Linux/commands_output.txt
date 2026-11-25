@@ -1,0 +1,62 @@
+### ls -la ~
+total 124
+drwxr-x--- 14 namah_bhagat namah_bhagat  4096 Nov 25 19:56 .
+drwxr-xr-x  3 root         root          4096 Oct  8 06:51 ..
+-rw-------  1 namah_bhagat namah_bhagat 41970 Nov 25 20:26 .bash_history
+-rw-r--r--  1 namah_bhagat namah_bhagat   220 Oct  8 06:51 .bash_logout
+-rw-r--r--  1 namah_bhagat namah_bhagat  3771 Oct  8 06:51 .bashrc
+drwxr-x---  4 namah_bhagat namah_bhagat  4096 Oct  8 06:52 .cache
+drwxr-x---  3 namah_bhagat namah_bhagat  4096 Oct  8 06:52 .config
+-rw-r--r--  1 namah_bhagat namah_bhagat    87 Oct 26 14:37 .gitconfig
+drwxr-xr-x  2 namah_bhagat namah_bhagat  4096 Oct  8 06:52 .landscape
+-rw-------  1 namah_bhagat namah_bhagat    20 Nov 22 11:22 .lesshst
+drwx------  3 namah_bhagat namah_bhagat  4096 Nov 21 13:43 .local
+-rw-r--r--  1 namah_bhagat namah_bhagat     0 Nov 25 11:46 .motd_shown
+-rw-r--r--  1 namah_bhagat namah_bhagat   807 Oct  8 06:51 .profile
+drwxr-xr-x  8 namah_bhagat namah_bhagat  4096 Nov 25 20:13 DeveloperPortfolio
+drwxr-xr-x  9 namah_bhagat namah_bhagat  4096 Nov 25 20:13 DeveloperPortfolio_old_backup
+drwxr-xr-x  3 namah_bhagat namah_bhagat  4096 Nov 22 11:07 LAB2
+drwxr-xr-x  3 namah_bhagat namah_bhagat  4096 Nov 22 11:14 cse103-lab-LAB3
+drwxr-xr-x  2 namah_bhagat namah_bhagat  4096 Nov 25 12:22 cse103_backups
+drwxr-xr-x  3 namah_bhagat namah_bhagat  4096 Oct 26 14:38 cse103_lab
+drwxr-xr-x  3 namah_bhagat namah_bhagat  4096 Nov 22 12:25 developer-portfolio
+drwxr-xr-x  7 namah_bhagat namah_bhagat  4096 Nov 25 12:22 organizer_test
+
+### ps aux | head -10
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.3  0.1  24296 15436 ?        Ss   20:30   0:01 /sbin/init
+root           2  0.0  0.0   3820  2524 hvc0     Sl+  20:30   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   20:30   0:00 init-watcher
+root           7  0.0  0.0   3820  2292 hvc0     Sl+  20:30   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          47  0.0  0.3  56388 29984 ?        S<s  20:30   0:00 /usr/lib/systemd/systemd-journald
+systemd+      82  0.0  0.1  22416 14488 ?        Ss   20:30   0:00 /usr/lib/systemd/systemd-resolved
+root          88  0.1  0.1  34640 12076 ?        Ss   20:30   0:00 /usr/lib/systemd/systemd-udevd
+root         155  0.0  0.0   2888  2012 ?        Ss   20:30   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root         156  0.0  0.0   4472  3124 ?        Ss   20:30   0:00 /usr/sbin/cron -f -P
+
+### df -h
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.7G     0  3.7G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.7G  4.0K  3.7G   1% /mnt/wsl
+drivers         476G  253G  224G  53% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.7G  954G   1% /
+none            3.7G   36K  3.7G   1% /mnt/wslg
+none            3.7G     0  3.7G   0% /usr/lib/wsl/lib
+rootfs          3.7G  3.4M  3.7G   1% /init
+none            3.7G  540K  3.7G   1% /run
+none            3.7G     0  3.7G   0% /run/lock
+none            3.7G     0  3.7G   0% /run/shm
+none            3.7G  104K  3.7G   1% /mnt/wslg/versions.txt
+none            3.7G  104K  3.7G   1% /mnt/wslg/doc
+C:\             476G  253G  224G  53% /mnt/c
+tmpfs           3.7G     0  3.7G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           756M   12K  756M   1% /run/user/1000
+
+### free -h
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       565Mi       6.8Gi       4.1Mi       177Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
