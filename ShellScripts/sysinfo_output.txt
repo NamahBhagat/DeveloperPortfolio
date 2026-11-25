@@ -1,7 +1,7 @@
-===== Namah Bhagat | Roll No: 2601730024 | Wed Nov 25 20:57:24 UTC 2026 =====
+===== Namah Bhagat | Roll No: 2601730024 | Wed Nov 25 21:00:38 UTC 2026 =====
 CPU Model: AMD Ryzen 7 7445HS w/ Radeon 740M Graphics
 CPU Cores: 12
-Total Memory: 7.4Gi | Used Memory: 577Mi
+Total Memory: 7.4Gi | Used Memory: 575Mi
 Top 3 processes by CPU:
 systemd+      82  0.0  0.1  22416 14488 ?        Ss   20:30   0:00 /usr/lib/systemd/systemd-resolved
 syslog       237  0.0  0.0 220548  5996 ?        Ssl  20:30   0:00 /usr/sbin/rsyslogd -n -iNONE
