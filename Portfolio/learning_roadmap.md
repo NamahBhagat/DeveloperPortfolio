@@ -17,7 +17,7 @@
 | Databases | 1 |
 | Web Dev | 1 |
 
-**Chosen Track (Semester 5 onwards):** Track B - Data Science and AI/ML
+**Chosen Track (Semester 3 onwards):** Track B - Data Science and AI/ML
 
 ---
 
@@ -36,10 +36,13 @@
 - **Certification:** HackerRank Python (Basic) - Earned
 - **Platforms:** HackerRank (30+ problems), freeCodeCamp Responsive Web Design
 - **Weekly Habit:** 2-3 hours of self-study beyond lab hours
+- **Tools Used:** Linux terminal (WSL2), Bash, Git, GitHub, curl, jq
+- **Milestone:** CSE103 Capstone - DeveloperPortfolio
 
 ### Semester 2 (Jan-May 2027) - Core Computer Science
 - **Core Skills:** Data Structures (arrays, linked lists, stacks, queues, trees)
 - **Languages:** Python OOP, C++ basics
+- **Databases and Web Basics:** SQL fundamentals, HTML and CSS
 - **ML Link:** Practice Linear Algebra and Probability using NumPy
 - **Projects:** DSA Implementation Repository (at least 5 data structures with README)
 - **Certification:** NPTEL Introduction to Programming in Python
@@ -47,6 +50,7 @@
 
 ### Semester 3 (Aug-Dec 2027) - Intermediate
 - **Core Skills:** Databases (MySQL, SQL joins, indexes), HTML + CSS + JavaScript, Pandas and Matplotlib basics
+- **Specialisation:** Begin Data Science and AI/ML track (Pandas, Matplotlib)
 - **Theory:** DBMS, Computer Networks, Operating Systems
 - **Projects:** Student Record Management System (Python + MySQL)
 - **Certification:** Google IT Support Certificate (Coursera)
@@ -60,7 +64,7 @@
 - **Platforms:** LeetCode Medium (30 problems), HackerRank Problem Solving
 - **Internship:** Start applying and networking
 
-### Semester 5 (Aug-Dec 2028) - Specialisation: Track B (Data Science and AI/ML)
+### Semester 5 (Aug-Dec 2028) - Advanced Specialisation: Track B (Data Science and AI/ML)
 - **Core Skills:** NumPy, Pandas, Scikit-learn, Kaggle competitions, Jupyter Notebook
 - **Projects:** 2 specialisation projects with live demo and documentation
   1. Spam SMS Classifier (upgraded with a web demo)
