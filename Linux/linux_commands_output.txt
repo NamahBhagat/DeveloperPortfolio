@@ -1,0 +1,33 @@
+/home/namah_bhagat/DeveloperPortfolio/Linux
+total 16
+drwxr-xr-x 2 namah_bhagat namah_bhagat 4096 Nov 23 19:50 .
+drwxr-xr-x 8 namah_bhagat namah_bhagat 4096 Nov 23 19:49 ..
+-rw-r--r-- 1 namah_bhagat namah_bhagat   44 Nov 23 19:50 linux_commands_output.txt
+-rw-r--r-- 1 namah_bhagat namah_bhagat 2808 Nov 23 19:50 system_profile.txt
+--- processes ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  3.6  0.2  24580 15532 ?        Ss   19:49   0:00 /sbin/init
+root           2  0.0  0.0   3820  2524 hvc0     Sl+  19:49   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   19:49   0:00 init-watcher
+root           7  0.0  0.0   3820  2296 hvc0     Sl+  19:49   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          50  0.8  0.3  50640 24840 ?        S<s  19:49   0:00 /usr/lib/systemd/systemd-journald
+systemd+      67  0.5  0.1  22416 14504 ?        Ss   19:49   0:00 /usr/lib/systemd/systemd-resolved
+root          89  1.3  0.1  34640 12140 ?        Ss   19:49   0:00 /usr/lib/systemd/systemd-udevd
+root         132  0.3  0.0   2888  2016 ?        Ss   19:49   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root         137  0.0  0.0   4472  3116 ?        Ss   19:49   0:00 /usr/sbin/cron -f -P
+--- network ---
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host proto kernel_lo 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1492 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:38:13:23 brd ff:ff:ff:ff:ff:ff
+    altname enx00155d381323
+    inet 172.27.227.161/20 brd 172.27.239.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:fe38:1323/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
