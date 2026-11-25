@@ -1,0 +1,9 @@
+===== Namah Bhagat | Roll No: 2601730024 | Wed Nov 25 20:57:24 UTC 2026 =====
+CPU Model: AMD Ryzen 7 7445HS w/ Radeon 740M Graphics
+CPU Cores: 12
+Total Memory: 7.4Gi | Used Memory: 577Mi
+Top 3 processes by CPU:
+systemd+      82  0.0  0.1  22416 14488 ?        Ss   20:30   0:00 /usr/lib/systemd/systemd-resolved
+syslog       237  0.0  0.0 220548  5996 ?        Ssl  20:30   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         752  0.0  0.0   3892  1568 ?        S    20:37   0:00 /init
+Report generated successfully
