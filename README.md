@@ -1,55 +1,40 @@
 # Developer Portfolio
 
 **Name:** Namah Bhagat | **Roll No:** 2601730024
-**Course:** B.Tech CSE (AI/ML), K.R. Mangalam University, Gurugram (Batch 2026-30)
+**Course:** B.Tech CSE (AI/ML), KR Mangalam University, Gurugram (Batch 2026-30)
+
+- GitHub: https://github.com/NamahBhagat
+- LinkedIn: https://www.linkedin.com/in/namah-bhagat-552568301/
+- Live Website: https://namahbhagat.github.io/DeveloperPortfolio
 
 ## Project Overview
-This is my Beginner Developer Ecosystem Portfolio for the CSE103 capstone. It collects evidence from all four labs: Linux commands and system documentation, shell scripting, Git with API interaction, and a professional portfolio (resume, LinkedIn, GitHub and learning roadmap).
+This is my CSE103 capstone. It collects work from four sections: Linux, Shell Scripting, GitHub and API, and Developer Portfolio.
 
 ## Repository Structure
 | Folder | Question | Content |
 |---|---|---|
-| `Linux/` | Q1 - CO1 | System profile, Linux command outputs, lab records |
-| `ShellScripts/` | Q2 - CO2 | Bash automation scripts and lab records |
-| `API/` | Q3 - CO3 | API response JSON, Python script, Git/Markdown lab records |
-| `Portfolio/` | Q4 - CO4 | Resume PDF, learning roadmap, LinkedIn screenshot, lab records |
-| `Screenshots/` | Supporting | Screenshots for all sections |
-| `README.md` | Overview | This file |
+| Linux/ | Q1 | System profile and Linux command outputs |
+| ShellScripts/ | Q2 | sysinfo.sh and backup.sh |
+| API/ | Q3 | GitHub and JSONPlaceholder API data and summary |
+| Portfolio/ | Q4 | Resume and learning roadmap |
+| Screenshots/ | Supporting | Screenshots of all sections |
 
-## What I Did in Each Section
-- **Linux (CO1):** Collected system information (OS, CPU, memory, disk) and practised file management, text processing and permissions.
-- **Shell Scripts (CO2):** Wrote Bash scripts using variables, loops, functions, arguments, backups, file organising and defensive error handling.
-- **API (CO3):** Used Python and the GitHub REST API to fetch profile data and save it as JSON. Practised Git, GitHub and Markdown in the `cse103-lab-LAB3` repository.
-- **Portfolio (CO4):** Built a one-page ATS-friendly resume, a 6-semester learning roadmap, a GitHub profile and a LinkedIn profile.
+## Q1: Linux
+![System profile](Screenshots/q1_system_profile_md.png)
+![Hardware commands](Screenshots/q1_hardware_commands.png)
+![Commands output 1](Screenshots/q1_commands_output_1.png)
+![Commands output 2](Screenshots/q1_commands_output_2.png)
 
-## How to Run
-```bash
-chmod +x ShellScripts/*.sh
-./ShellScripts/script1_hello.sh
-./ShellScripts/script3_functions.sh 7 11 15 23
-./ShellScripts/script6_sysreport.sh
-python3 API/fetch_github.py
-```
+## Q2: Shell Scripting
+![sysinfo output](Screenshots/q2_sysinfo_output.png)
+![Backup demo](Screenshots/backup_demo.png)
 
-## Screenshots
-![Linux system profile](Screenshots/02_linux_system_profile.png)
-![Scripts: hello and loops](Screenshots/03_scripts_hello_loops.png)
-![Scripts: functions and backup](Screenshots/04_scripts_functions_backup.png)
-![Script: organizer](Screenshots/05_script_organizer.png)
-![Scripts: defensive and sysreport](Screenshots/06_scripts_defensive_sysreport.png)
-![API output](Screenshots/07_api_output.png)
-![LinkedIn profile](Screenshots/09_linkedin_profile.png)
-![GitHub profile](Screenshots/10_github_profile.png)
-![Portfolio website](Screenshots/11_portfolio_website.png)
+## Q3: GitHub and API
+![GitHub API with jq](Screenshots/q3_github_api_jq.png)
+![Posts length](Screenshots/q3_posts_length.png)
+![Git log](Screenshots/q3_git_log.png)
 
-## Links
-- GitHub: https://github.com/NamahBhagat
-- LinkedIn: https://www.linkedin.com/in/namah-bhagat-552568301/
-- Portfolio website: https://namahbhagat.github.io/developer-portfolio
-- Lab 3 repository: https://github.com/NamahBhagat/cse103-lab-LAB3
-- Portfolio index repository: https://github.com/NamahBhagat/developer-portfolio
-- HackerRank: h2601730024 | LeetCode: NamahBhagat
-- Email: 2601730024@krmu.edu.in
-
-## Skills
-Linux, Bash, Git/GitHub, Python (Beginner), REST APIs, Markdown
+## Q4: Developer Portfolio
+![GitHub profile](Screenshots/github_profile.png)
+![LinkedIn profile](Screenshots/linkedin_profile.png)
+![Live website](Screenshots/q4_portfolio_website_live.png)
